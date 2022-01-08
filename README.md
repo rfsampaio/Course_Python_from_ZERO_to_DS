@@ -1,2 +1,2 @@
-# course_python_from_zero_to_ds
+# Course "Python from ZERO to DS"
 Repository of the "Python from ZERO to DS" course.
