@@ -26,8 +26,8 @@ Repository of the "Python from ZERO to DS" course.
 - **sqft_living15:** Square feet of building area of the 15 closest neighbors.
 - **sqft_lot15:** Square feet of lot area of the 15 closest neighbors.
 ## 3. Course Classes
-- Class 1;
-- Class 2;
+- [Class 1](https://github.com/rfsampaio/course_python_from_zero_to_ds/blob/5d8d2cfcaeb934c702de42716dc229cc3a9bf03f/notebooks/class_01.ipynb);
+- [Class 2](https://github.com/rfsampaio/course_python_from_zero_to_ds/blob/5d8d2cfcaeb934c702de42716dc229cc3a9bf03f/notebooks/class_02.ipynb);
 - Class 3;
 - Class 4;
 - Class 5;
